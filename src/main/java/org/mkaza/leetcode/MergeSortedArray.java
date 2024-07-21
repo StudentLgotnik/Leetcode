@@ -1,7 +1,8 @@
-package org.mkaza.leetcode;//https://leetcode.com/problems/merge-sorted-array
+package org.mkaza.leetcode;
 
 import java.util.Arrays;
 
+//https://leetcode.com/problems/merge-sorted-array
 public class MergeSortedArray {
 
     public void merge(int[] nums1, int m, int[] nums2, int n) {
